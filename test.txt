@@ -1,0 +1,28 @@
+total number:18572084
+T	2009-06-01 21:43:59
+U	http://twitter.com/burtonator
+W	No Post Title
+
+T	2009-06-01 21:47:23
+U	http://twitter.com/burtonator
+W	I want to sleep 
+
+T	2009-06-02 01:15:44
+U	http://twitter.com/burtonator
+W	No Post Title
+
+T	2009-06-02 05:17:52
+U	http://twitter.com/burtonator
+W	sleep is what i want
+
+T	2009-06-02 23:58:25
+U	http://twitter.com/burtonator
+W	No Post Title
+
+T	2009-06-02 23:58:49
+U	http://twitter.com/burtonator
+W	No Post Title
+
+T	2009-06-05 03:27:00
+U	http://twitter.com/burtonator
+W	No Post Title
